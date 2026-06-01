@@ -1,0 +1,10 @@
+tensorflow
+numpy
+matplotlib
+scikit-learn
+tqdm
+huggingface_hub
+pandas
+fastapi
+uvicorn
+python-multipart
